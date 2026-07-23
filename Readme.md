@@ -1,6 +1,6 @@
 # PromptBreaker BR
 
-Ferramenta de **Red Team para Inteligência Artificial** — testa chatbots e
+Ferramenta de **Red Team para Inteligência Artificial**  testa chatbots e
 agentes construídos sobre LLMs quanto a vulnerabilidades da **OWASP Top 10
 for LLM Applications**:
 
