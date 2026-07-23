@@ -8,8 +8,6 @@ for LLM Applications**:
 - **LLM02** — Vazamento de Informação Sensível
 - **LLM06** — Agência Excessiva (Excessive Agency)
 
-Feita pro canal **Cybersegurança na Prática**. Single-file, Python puro,
-sem chave de API obrigatória pra rodar em modo demonstração.
 
 ## ⚠️ Aviso legal
 
