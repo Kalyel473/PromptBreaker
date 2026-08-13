@@ -1,24 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-============================================================================
- PromptBreaker BR - Ferramenta de Red Team para Aplicacoes de IA (LLMs)
-============================================================================
-Testa chatbots, agentes e aplicacoes construidas sobre LLMs quanto a
-vulnerabilidades classicas mapeadas na OWASP Top 10 for LLM Applications:
 
-    LLM01 - Prompt Injection (direta e indireta)
-    LLM02 - Vazamento de Informacao Sensivel
-    LLM06 - Agencia Excessiva (Excessive Agency)
-
-Canal: Cybersegurança na Prática
-Uso permitido: apenas em sistemas proprios ou com autorizacao explicita
-por escrito do responsavel pela aplicacao testada.
-
-Dependencias: requests, colorama
-    pip install requests colorama --break-system-packages
-============================================================================
-"""
 
 import argparse
 import json
